@@ -1,0 +1,6 @@
+{
+  "name": "Surendra Deshnoor Portfolio",
+  "description": "Portfolio of Surendra Deshnoor, cybersecurity trainee at Torii Minds working on penetration testing, AI and LLM security, and application security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
